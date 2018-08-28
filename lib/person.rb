@@ -8,5 +8,8 @@ class Person
   def name
     @name
   end 
+  
+  def breed=(given_name)
+    @breed = given
 
 end 
