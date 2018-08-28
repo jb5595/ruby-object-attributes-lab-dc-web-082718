@@ -11,5 +11,10 @@ class Person
   
   def breed=(given_breed)
     @breed = given_breed
+  end 
+  
+  def breed
+    @breed
+  end 
 
 end 
